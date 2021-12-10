@@ -1,6 +1,6 @@
 # Hi GitHub user! 
 
-Welcome to my GitHub account! Sorry for the bad grammar, I can't spell. :sweat_smile: You can check out all my current engineering projects through my Robotics Team's Website [here](https://rcj.tfacademy.ca/). 
+Welcome to my GitHub account! 
 
 If you are looking for more information, feel free to email me [here](mailto:zhengvictor0@gmail.com)
 
